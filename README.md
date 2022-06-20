@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/madhusmita1307/madhusmita1307/master/wave.gif" width="29px">
+## Hello World!
 
 <!--
 **madhusmita1307/madhusmita1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
